@@ -1,0 +1,55 @@
+img {
+    border: 2px solid black;    
+    
+}
+
+html {
+font-family: 'Source Serif Pro', serif;
+}
+
+ul{ 
+    text-align: right;
+    margin-right: 30px
+}
+
+li {
+    display: inline;
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+.quote {
+    text-align: center;
+    
+}
+
+.creepy_forest{
+    
+}
+
+.green_plants{
+    p.solid {border-style: solid;}
+}
+.new_york{
+    
+}
+.header {
+    margin-left: 20px;
+    font-size: 19x;
+}
+
+.main_content {
+     margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    font-size: 25px;
+}
+body {
+    background-color: white;
+    color: black;
+}
+.header1{
+ 
+}
